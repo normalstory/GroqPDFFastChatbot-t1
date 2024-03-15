@@ -1,5 +1,6 @@
-### Groq 첫번째 실습 ###
 
+### Groq 첫번째 실습 ###  
+#
 **1. GroqChat sign-up, key발급** 
     
     GroqCloud(https://console.groq.com/keys)
@@ -47,5 +48,5 @@
 
 * 튜토리얼 출처
     www.linkedin.com/in/stevado
-
+#
 * 개발 상세 노트 : [노션](https://thinknormal.notion.site/GroqChat-b9dcac0e898a4961926d92db79007d1f)
