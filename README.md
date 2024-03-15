@@ -40,17 +40,10 @@
 
 
 **8. 사용하기**
-
-    
 * 질의 내용과 결과
-
-<img width="938" alt="image" src="https://github.com/normalstory/GroqPDFFastChatbot-t1/blob/main/result/r2.png/">
-    
-    
+> <img width="600" alt="image" src="https://github.com/normalstory/GroqPDFFastChatbot-t1/blob/main/result/r2.png/">
 * 업로드 원문의 일부
-
-<img width="938" alt="image" src="https://github.com/normalstory/GroqPDFFastChatbot-t1/blob/main/result/r1.png">
-
+> <img width="600" alt="image" src="https://github.com/normalstory/GroqPDFFastChatbot-t1/blob/main/result/r1.png">
 
 * 튜토리얼 출처
     www.linkedin.com/in/stevado 
