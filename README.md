@@ -46,4 +46,6 @@
 > <img width="600" alt="image" src="https://github.com/normalstory/GroqPDFFastChatbot-t1/blob/main/result/r1.png">
 
 * 튜토리얼 출처
-    www.linkedin.com/in/stevado 
+    www.linkedin.com/in/stevado
+
+* 개발 상세 노트 : [노션](https://thinknormal.notion.site/GroqChat-b9dcac0e898a4961926d92db79007d1f)
