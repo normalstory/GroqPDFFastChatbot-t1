@@ -3,6 +3,7 @@
 # dependencies
 /__pycache__
 /.chainlit
+/.files
 /groq-t1
 /node_modules
 /.pnp
